@@ -29,8 +29,5 @@ public class p013_treeset {
             System.out.println(iterate.next());
 
         }
-
-
-
     }
 }
