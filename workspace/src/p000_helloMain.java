@@ -2,7 +2,7 @@ import models.Employee;
 import models.Person;
 import models.User;
 
-public class HelloMain {
+public class p000_helloMain {
     public static void main(String[] args) {
         Person person = new Person();
         Employee employee = new Employee();
