@@ -34,7 +34,7 @@ class Arithmatic{
     }
 }
 
-public class p07_ExceptionHandling {
+class p07_ExceptionHandling {
     public static void main(String[] args) {
         Arithmatic arithmatic = new Arithmatic();
         arithmatic.division(10,2);
