@@ -20,16 +20,13 @@ public class A10 {
         for (int i = 0; i < 9; i++) {
             if (amount>=notes[i]){
                 noteCounter[i]=amount/notes[i];
-                amount=amount-noteCounter[i]*notes[i];
+                amount=amount%notes[i];
             }
         }
 
-        System.out.println("Currency Count ->");
         for (int i = 0; i < 9; i++) {
-            if (noteCounter[i] !=0){
-                System.out.println(notes[i]+":"+noteCounter[i]);
-            }
+            if(noteCounter[i]!=0){
+            System.out.println(notes[i]+" : "+noteCounter[i]);}
         }
-
     }
 }
