@@ -29,6 +29,8 @@ public class p015_lambda {
         });
 
         //We can use lambda when we have just one abstract method in interface
+        //Only works with Interfaces
+
         runner.run(()->{
             System.out.println("Hello from lambda");
             return 0;
