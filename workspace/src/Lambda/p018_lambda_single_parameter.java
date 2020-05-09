@@ -1,3 +1,5 @@
+package Lambda;
+
 interface Sayable1{
     public String say(String name);
 }

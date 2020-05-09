@@ -1,3 +1,5 @@
+package Collections;
+
 import java.util.LinkedList;
 
 public class p010_linkedlist {

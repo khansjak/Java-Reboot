@@ -1,3 +1,4 @@
+package Collections;
 
 public class p003_arrays {
     public static void main(String[] args) {

@@ -1,3 +1,5 @@
+package Lambda;
+
 interface Drawable{
     public void draw();
 }

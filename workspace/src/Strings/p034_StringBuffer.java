@@ -1,3 +1,5 @@
+package Strings;
+
 public class p034_StringBuffer {
     public static void main(String[] args) {
         StringBuffer sb = new StringBuffer("Welcome ");

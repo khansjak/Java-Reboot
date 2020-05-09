@@ -1,4 +1,4 @@
-import org.w3c.dom.ls.LSOutput;
+package Lambda;
 
 /*
 1. Functional Interface can have only one abstract method in it.
@@ -12,7 +12,7 @@ interface Executable{
 
 class Runner{
     public void run(Executable ex){
-        System.out.println("Executable Block");
+        System.out.println("Lambda.Executable Block");
         int value = ex.execute();
     }
 }

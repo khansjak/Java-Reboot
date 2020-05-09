@@ -1,3 +1,5 @@
+package Threads;
+
 class Test<T,U> {
     T value;
     U value1;
@@ -16,14 +18,14 @@ class Test<T,U> {
 public class p047_generics {
     public static void main(String[] args) {
         System.out.println("Hello Generics");
-        //Test test = new Test(10);
+        //Threads.Test test = new Threads.Test(10);
         //System.out.println(test.getValue());
 
         //What if i want to pass a string value and print
         //It wont allow since constructor taking and returning value is int.
         //T Type is solution
 
-        //Test test1 = new Test("Javed");
+        //Threads.Test test1 = new Threads.Test("Javed");
         //System.out.println(test1.getValue());
         System.out.println();
         Test<Integer,String> test = new Test<>(10,"King");

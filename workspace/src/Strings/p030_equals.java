@@ -1,3 +1,5 @@
+package Strings;
+
 public class p030_equals {
     public static void main(String[] args) {
         String s1 = "Sample";

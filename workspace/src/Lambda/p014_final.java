@@ -1,3 +1,5 @@
+package Lambda;
+
 class Shape{
     public final void draw(){
         System.out.println("Draw method in shape class");
@@ -15,7 +17,7 @@ class Rectangle extends Shape{
 //Allowed
 }
 
-//class Rectangle extends Shape1{
+//class Lambda.Rectangle extends Lambda.Shape1{
 //Not Allowed
 //}
 

@@ -1,3 +1,5 @@
+package Strings;
+
 public class p027_String1 {
     public static void main(String[] args) {
         String name="Abdul";

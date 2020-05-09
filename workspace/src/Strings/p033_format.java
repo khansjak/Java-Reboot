@@ -1,3 +1,5 @@
+package Strings;
+
 public class p033_format {
     public static void main(String[] args) {
         String name = "James";

@@ -1,3 +1,5 @@
+package Lambda;
+
 public class p021_lambda_thread {
     public static void main(String[] args) {
         Runnable r1=()->{

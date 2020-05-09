@@ -1,3 +1,5 @@
+package Collections;
+
 import java.util.Scanner;
 
 public class p004_arrays2 {

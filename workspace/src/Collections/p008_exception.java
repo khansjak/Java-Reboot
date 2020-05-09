@@ -1,3 +1,5 @@
+package Collections;
+
 class InvalidAgeException extends Exception {
 
 }

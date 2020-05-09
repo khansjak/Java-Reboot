@@ -1,4 +1,4 @@
-/*
+package Arrays;/*
 > Stream is abstraction and can be thought of as a flow of data from source to sink.
 > Source or input stream initiate the flow of data.
 > Sink or output stream terminates the flow of data.

@@ -1,3 +1,5 @@
+package Collections;
+
 import java.util.Vector;
 
 public class p011_vectors {

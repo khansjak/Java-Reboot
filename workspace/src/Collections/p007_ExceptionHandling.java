@@ -1,3 +1,5 @@
+package Collections;
+
 class Arithmatic{
     int array[] = {10,20,30,40};
     int num1= 50;

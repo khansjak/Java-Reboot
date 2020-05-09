@@ -1,3 +1,5 @@
+package Threads;
+
 class MyRunnable implements Runnable {
     public void run() {
         try {

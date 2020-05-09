@@ -1,3 +1,5 @@
+package Arrays;
+
 public class p026_multidimensional_array {
     public static void main(String[] args) {
         int iarr[][] = new int[2][3];

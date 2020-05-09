@@ -1,3 +1,5 @@
+package Threads;
+
 //Resource A
  class ClassA {
     private int num = 10;

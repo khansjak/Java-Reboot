@@ -1,3 +1,4 @@
+package Threads;
 
 class MyOuterClass {
     void MyOuterMethod() {

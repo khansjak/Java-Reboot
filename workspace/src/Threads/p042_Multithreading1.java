@@ -1,3 +1,5 @@
+package Threads;
+
 class firstThread extends Thread{
     public void run(){
         System.out.println("First Thread running ...");

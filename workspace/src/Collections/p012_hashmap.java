@@ -1,4 +1,4 @@
-//Stores data in key value pair
+package Collections;//Stores data in key value pair
 //Key must be unique
 //Allow only one null key and multiple null values
 //Doesn't maintain order of insertion

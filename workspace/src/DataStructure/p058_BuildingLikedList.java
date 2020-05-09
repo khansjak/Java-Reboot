@@ -1,3 +1,5 @@
+package DataStructure;
+
 public class p058_BuildingLikedList {
     static class LinkedList {
         public class Node {

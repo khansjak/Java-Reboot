@@ -1,4 +1,4 @@
-/*
+package FileHandling;/*
 1. What if the superclass is serializable?
     In this case all its subclasses are automatically serialized.
 2. What is the super class is not serialized ?
@@ -24,7 +24,7 @@ public class p041_FileHandling5 {
             ObjectOutputStream outStream = new ObjectOutputStream(fileOut);
             outStream.close();
             fileOut.close();
-            System.out.println("Customer Object Serialization.");
+            System.out.println("FileHandling.Customer Object Serialization.");
         } catch (IOException e) {
             e.printStackTrace();
         }

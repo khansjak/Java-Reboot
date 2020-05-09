@@ -1,3 +1,4 @@
+package Threads;
 
 class SecondThread implements Runnable{
     public void run(){

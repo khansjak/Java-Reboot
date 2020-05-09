@@ -1,3 +1,5 @@
+package Lambda;
+
 interface Sayble{
     public String say();
 }

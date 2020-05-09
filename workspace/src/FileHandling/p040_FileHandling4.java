@@ -1,3 +1,5 @@
+package FileHandling;
+
 import java.io.File;
 import java.io.FileReader;
 import java.io.FileWriter;
@@ -23,7 +25,7 @@ public class p040_FileHandling4 {
             e.printStackTrace();
         }
 
-        FileReader fileReader = new FileReader("demo.txt");
+        FileReader fileReader = new FileReader("Arrays/demo.txt");
         Scanner data = new Scanner(fileReader);
 
         while (data.hasNextLine()) {

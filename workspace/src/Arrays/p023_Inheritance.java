@@ -1,3 +1,5 @@
+package Arrays;
+
 public class p023_Inheritance {
     public static void main(String[] args) {
         gasVehicle gas = new gasVehicle();

@@ -1,4 +1,4 @@
-/*
+package Collections;/*
 1. Stores element in sorted format.
 2. Contains only unique elements.
 3. Doesn't allow duplicate values.
