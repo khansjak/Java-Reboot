@@ -9,12 +9,13 @@ public class p059_Stacks {
         stack.push(100);
         stack.push(200);
         stack.push(300);
+        stack.push(400);
 
         System.out.println("Stacks :"+stack);
         System.out.println("Peek ˜˜ast Inserted Element :"+stack.peek());
         System.out.println("Pop ~Remove last element :"+stack.pop());
         var top = stack.pop();
-        System.out.printf("New Top Value :"+top);
+        System.out.println("New Top Value :"+top);
 
     }
 }

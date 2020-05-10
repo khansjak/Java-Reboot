@@ -20,6 +20,7 @@ public class p062_Queue {
         queue.add(10);
         queue.add(20);
         queue.add(30);
+        queue.add(40);
         reverse(queue);
         System.out.println(queue);
 

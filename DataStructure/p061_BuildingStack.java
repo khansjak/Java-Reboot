@@ -49,6 +49,7 @@ public class p061_BuildingStack {
         stack.push(100);
         stack.push(200);
         stack.push(300);
+        stack.push(400);
         System.out.println(stack);
         System.out.printf("Last Popped Element :" + stack.pop());
         System.out.println("Last Element :" + stack.peek());

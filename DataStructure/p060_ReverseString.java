@@ -7,7 +7,7 @@ import java.util.Stack;
 public class p060_ReverseString {
     public static void main(String[] args) {
 
-        String str = "abcd";
+        String str = "abcdef";
         //String str = null;
         //Above statement will give null pointer exception which will reuire throw or try catch to handle it.
 
